@@ -1,5 +1,5 @@
 # Hi, I'm Faisal Ashraf 👋
-### AI Engineer | Medical Imaging Specialist | MSCS Researcher
+### AI Engineer | Medical Imaging Specialist | Indepedent Researcher
 
 I specialize in Deep Learning architectures for 3D MRI segmentation and automated radiology reporting.
 
